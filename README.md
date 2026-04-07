@@ -100,7 +100,8 @@ The goal is to transform raw sales data into **actionable business insights** fo
 
 ## 📸 Dashboard Preview
 
-<img width="1265" height="747" alt="image" src="https://github.com/user-attachments/assets/56bf5652-cd9c-4d41-ae25-be1b5c36ae23" />
+<img width="1295" height="727" alt="Screenshot 2026-04-07 174255" src="https://github.com/user-attachments/assets/e814909d-27e9-47f8-b39e-974526db8285" />
+
 
 ---
 ## 📜 License
